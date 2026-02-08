@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/franc/OneDrive/Documentos/DATA%20ANALYSIS/FRANCA%20EDOGA%20CV.pdf](file:///C:/Users/franc/OneDrive/Documentos/DATA%20ANALYSIS/FRANCA%20EDOGA%20CV.pdf)
 
-- ⚡ Fun fact **I enjoy cleaning data**
+- ⚡ Fun fact; **I enjoy cleaning data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
